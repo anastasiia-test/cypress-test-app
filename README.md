@@ -16,8 +16,5 @@ Local dev server is on http://localhost:4200/.
 
 ### To start the test
 
-Make sure to install Cypress:
-```npm install cypress --save-dev --force```
-
 Open Cypress:
 ```npx cypress open```
